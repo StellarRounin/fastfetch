@@ -40,7 +40,7 @@
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/catppuccin/fastfetch.git
+git clone https://github.com/StellarRounin/fastfetch.git
 ```
 2. Enter the repository folder:
 ```bash 
