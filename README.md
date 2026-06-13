@@ -21,19 +21,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
+<img width="1784" height="849" alt="latte" src="https://github.com/user-attachments/assets/821fe5bf-e9d1-4a61-8d6a-50d4dc238605" />
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+<img width="1779" height="838" alt="frappe" src="https://github.com/user-attachments/assets/17391a66-47c7-4c56-9b15-35ebc60dccc5" />
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
+<img width="1828" height="864" alt="macchiato" src="https://github.com/user-attachments/assets/b88424e7-775e-4b4a-8e5f-b6999422c33d" />
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
+<img width="1788" height="830" alt="mocha" src="https://github.com/user-attachments/assets/1c2a533b-9960-4436-872e-134536f8793b" />
 </details>
 
 ## Usage
