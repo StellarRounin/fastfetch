@@ -151,7 +151,7 @@ install_theme() {
     fi
 
     # Check logo
-    if [[ ! -f "themes/Catppuccin-$THEME/logo/catppuccin_logo.png" ]]; then
+    if [[ ! -f "assets/logo/catppuccin_logo.png" ]]; then
         echo -e "${RED}❌  Logo file not found: themes/Catppuccin-$THEME/logo/catppuccin_logo.png${NC}"
         read -n1 -r -p "Press any key to return to menu..." key
         return 0
